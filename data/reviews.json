@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "helplineId": 1,
+    "userName": "Priya Kumar",
+    "rating": 5,
+    "comment": "Excellent service! Very helpful and supportive staff.",
+    "date": "2026-02-15"
+  },
+  {
+    "id": 2,
+    "helplineId": 1,
+    "userName": "Sarah",
+    "rating": 4,
+    "comment": "Great helpline, quick response time.",
+    "date": "2026-02-20"
+  },
+  {
+    "id": 3,
+    "helplineId": 2,
+    "userName": "Anonymous",
+    "rating": 5,
+    "comment": "Life-changing support. Highly recommend!",
+    "date": "2026-02-18"
+  }
+]
