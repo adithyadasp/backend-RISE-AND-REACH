@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Women Helpline 1091",
+    "city": "Delhi",
+    "category": "Emergency",
+    "contact": "1091",
+    "location": "National Commission for Women, New Delhi"
+  },
+  {
+    "id": 2,
+    "name": "NGO Helping Women",
+    "city": "Mumbai",
+    "category": "Support",
+    "contact": "9876543210",
+    "location": "Dadar, Mumbai, Maharashtra"
+  },
+  {
+    "id": 3,
+    "name": "Kozhikode Women Support Center",
+    "city": "Kozhikode",
+    "category": "Support",
+    "contact": "0495-2356789",
+    "location": "Kozhikode, Kerala"
+  },
+  {
+    "id": 4,
+    "name": "Bangalore Women Helpline",
+    "city": "Bangalore",
+    "category": "Emergency",
+    "contact": "1091",
+    "location": "Bangalore, Karnataka"
+  },
+  {
+    "id": 5,
+    "name": " Vimochana",
+    "city": "Bengaluru",
+    "category": "Legal Support",
+    "contact": "080-25492781",
+    "location": "Vimochana,33/1-9,4th Croiss,Thyagaraja Layout,Jaibharath Nagar,Maruthi Sevanagar, Bengaluru"
+  },
+  {
+    "id": 6,
+    "name": "Sakhi One Stop Centre",
+    "city": "Kozhikode",
+    "category": "Support",
+    "contact": "0495-2732253 / 9946916253",
+    "location": "Social Justice Complex,Vellimadukunnu,Kozhikode"
+  },
+  {
+    "id": 7,
+    "name": "Sakhi One Stop Centre",
+    "city": "Chennai",
+    "category": "Support and Assistance",
+    "contact": "044-22233355 / 9677056919",
+    "location": "No.8,Judge Colony,Sanatorium,Tambaram,Chennai"
+  },
+  {
+    "id": 8,
+    "name": "Dhwani Helpline",
+    "city": "Chennai",
+    "category": "Emergency",
+    "contact": "044-43111143 / 1800-102-7282",
+    "location": "2030,13th Main Road,Anna Nagar West,Chennai"
+  },
+  {
+    "id": 9,
+    "name": "Bharosa Center",
+    "city": "Hyderabad",
+    "category": "Support",
+    "contact": "7382626437",
+    "location": "Bharosa center,Ladikapool,Hyderabad"
+  },
+  {
+    "id": 10,
+    "name": "181 Abhayam Women Helpline",
+    "city": "All India",
+    "category": "Emergency",
+    "contact": "181",
+    "location": "."
+  },
+  {
+    "id": 11,
+    "name": "Roshni Helpline",
+    "city": "Lucknow",
+    "category": "Support",
+    "contact": "0522-2234567",
+    "location": "Roshni Helpline, Lucknow, Uttar Pradesh"
+  },
+  {
+    "id": 12,
+    "name": "Sakhi One Stop Centre",
+    "city": "Ahmedabad",
+    "category": "Emergency shelter and medical-legal aid",
+    "contact": "079-25492781",
+    "location": "Civil Hospital campus Asarwa, Ahmedabad"
+  },
+  {
+    "id": 13,
+    "name": "Vanitha Sahayavani",
+    "city": "Pune",
+    "category": "Emergency Support and Assistance",
+    "contact": "1091/ 020-26123344",
+    "location": "Police commissioner's office ,Pune"
+  },
+  {
+    "id": 14,
+    "name": "yyy",
+    "city": "hhh",
+    "category": "Emergency",
+    "contact": "t545353r4cdcx",
+    "location": "csfszx"
+  }
+]
